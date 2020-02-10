@@ -1,0 +1,35 @@
+body {
+    background-color: #f1fcfc;
+    font-family: 'Montserrat', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    border: 20px solid #633a82;
+    padding: 20px;
+}
+
+h1 {
+    color: #40e0d0;
+    text-align: center;
+}
+
+h3 {
+    color: #40e0d0;
+}
+
+p {
+    color: #633a82;
+    font-size: 1rem;
+}
+
+a {
+    color: #40e0d0;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #72b5b7;
+}
+
+a:active{
+    color: #633a82;
+}
